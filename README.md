@@ -37,7 +37,19 @@ VisualMystique Mixer lets you unravel the mysteries of signal components, provid
 
 ## Getting Started
 
-To embark on your image mixing journey with VisualMystique Mixer, follow the steps outlined below
+To embark on your image mixing journey with VisualMystique Mixer, follow the steps outlined below:
+
+
+1. Install the application on your desktop.
+2. Launch the application and become acquainted with the user interface.
+3. Open and view grayscale images in the designated viewports.
+4. Experiment with adjusting brightness/contrast for image visualization.
+5. Analyze Fourier Transform components (Magnitude, Phase, Real, Imaginary) for each image.
+6. Customize weights for Fourier Transform components using sliders.
+7. Select regions for output components (inner or outer) using customizable sliders or resize handles.
+8. Explore real-time mixing capabilities, observing the progress with the displayed progress bar.
+9. Cancel ongoing operations if needed and initiate new ones seamlessly.
+
 
 ## Demo
 
