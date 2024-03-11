@@ -1,0 +1,525 @@
+2023-12-20 17:56:28,764 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-20 17:56:28,775 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-20 17:56:28,781 - INFO - Image selected is displayed.
+2023-12-20 17:56:28,786 - INFO - Displaying Ft magnitude of the image
+2023-12-20 17:56:37,776 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-20 17:56:37,781 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-20 17:56:37,786 - INFO - Image selected is displayed.
+2023-12-20 17:56:37,788 - INFO - Displaying Ft magnitude of the image
+2023-12-20 17:56:40,324 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/tigerIcon.png
+2023-12-20 17:56:40,334 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/tigerIcon.png
+2023-12-20 17:56:40,337 - INFO - Image selected is displayed.
+2023-12-20 17:56:40,339 - INFO - Displaying Ft magnitude of the image
+2023-12-20 17:56:42,558 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/whale.png
+2023-12-20 17:56:42,564 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/whale.png
+2023-12-20 17:56:42,568 - INFO - Image selected is displayed.
+2023-12-20 17:56:42,570 - INFO - Displaying Ft magnitude of the image
+2023-12-20 17:56:45,294 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/tree-white-background-no6-14621137.jpg
+2023-12-20 17:56:45,300 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/tree-white-background-no6-14621137.jpg
+2023-12-20 17:56:45,306 - INFO - Image selected is displayed.
+2023-12-20 17:56:45,308 - INFO - Displaying Ft magnitude of the image
+2023-12-20 17:56:46,369 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,369 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,369 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,369 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,369 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-20 17:56:46,394 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,394 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,394 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,394 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,394 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-20 17:56:46,413 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,413 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,413 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,413 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,413 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-20 17:56:46,424 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,424 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,424 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,424 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,424 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-20 17:56:46,434 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,434 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,434 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,434 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,434 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-20 17:56:46,547 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,547 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,548 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,548 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,548 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-20 17:56:46,582 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,582 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,582 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,582 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,582 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-20 17:56:46,617 - INFO - Magnitude/Phase mode selected
+2023-12-20 17:56:46,617 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-20 17:56:46,617 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-20 17:56:46,617 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-20 17:56:46,617 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:10:49,112 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-28 13:10:49,120 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-28 13:10:49,124 - INFO - Image selected is displayed.
+2023-12-28 13:10:49,127 - INFO - Displaying Ft magnitude of the image
+2023-12-28 13:10:59,694 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-28 13:10:59,696 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/black-object-with-white-background-black-object-has-white-background_873925-160047.jpg
+2023-12-28 13:10:59,699 - INFO - Image selected is displayed.
+2023-12-28 13:10:59,700 - INFO - Displaying Ft magnitude of the image
+2023-12-28 13:11:02,539 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/elephantIcon.png
+2023-12-28 13:11:02,545 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/elephantIcon.png
+2023-12-28 13:11:02,547 - INFO - Image selected is displayed.
+2023-12-28 13:11:02,548 - INFO - Displaying Ft magnitude of the image
+2023-12-28 13:11:05,389 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/tree-white-background-no6-14621137.jpg
+2023-12-28 13:11:05,393 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/tree-white-background-no6-14621137.jpg
+2023-12-28 13:11:05,397 - INFO - Image selected is displayed.
+2023-12-28 13:11:05,397 - INFO - Displaying Ft magnitude of the image
+2023-12-28 13:11:15,977 - INFO - User selected image in path: /Users/ahmedemadv/DSP_Task4/icons/dog.png
+2023-12-28 13:11:15,983 - INFO - Image is loaded from path: /Users/ahmedemadv/DSP_Task4/icons/dog.png
+2023-12-28 13:11:15,987 - INFO - Image selected is displayed.
+2023-12-28 13:11:15,989 - INFO - Displaying Ft magnitude of the image
+2023-12-28 13:11:29,949 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:29,949 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:29,949 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:29,949 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:29,949 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:29,974 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:29,974 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:29,974 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:29,974 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:29,974 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:29,997 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:29,997 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:29,997 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:29,997 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:29,997 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,009 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,009 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,009 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,009 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,009 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,018 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,018 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,018 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,018 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,018 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,027 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,027 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,027 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,027 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,027 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,042 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,042 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,042 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,042 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,042 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,059 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,059 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,059 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,059 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,059 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,075 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,076 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,076 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,076 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,076 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,092 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,092 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,092 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,092 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,092 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,109 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,109 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,109 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,109 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,109 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,126 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,126 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,126 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,126 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,126 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,142 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,142 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,142 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,142 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,142 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,159 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,159 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,159 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,159 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,159 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,208 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,209 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,209 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,209 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,209 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,259 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,259 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,259 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,259 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,259 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,292 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,292 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,292 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,292 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,292 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:30,342 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:30,342 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:30,342 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:30,342 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:30,342 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:33,927 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:33,928 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:33,928 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:33,928 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:33,928 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:33,940 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:33,941 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:33,941 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:33,941 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:33,941 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:34,894 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:34,895 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:34,895 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:34,895 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:34,895 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:11:34,906 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:11:34,906 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:11:34,906 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:11:34,906 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:11:34,906 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,499 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,500 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,500 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,500 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,500 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,663 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,663 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,664 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,664 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,664 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,727 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,727 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,728 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,728 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,728 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,747 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,747 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,747 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,747 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,747 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,797 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,797 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,797 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,798 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,798 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,859 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,859 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,859 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,859 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,859 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,909 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,909 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,909 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,909 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,909 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,944 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,944 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,944 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,944 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,944 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,978 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,978 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,978 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,978 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,978 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:01,992 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:01,992 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:01,992 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:01,992 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:01,992 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,025 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,025 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,025 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,025 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,025 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,044 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,044 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,044 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,044 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,044 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,059 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,059 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,059 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,059 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,059 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,075 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,075 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,075 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,075 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,075 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,092 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,092 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,092 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,092 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,092 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,125 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,125 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,125 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,125 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,125 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,175 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,175 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,175 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,175 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,175 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,193 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,193 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,193 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,193 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,193 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,209 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,209 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,209 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,209 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,209 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,226 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,226 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,226 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,226 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,226 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:02,564 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:02,565 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:02,565 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:02,565 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:02,565 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:04,947 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:04,947 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:04,947 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:04,948 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:04,948 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:04,968 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:04,968 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:04,968 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:04,968 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:04,968 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:04,982 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:04,982 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:04,982 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:04,982 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:04,982 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:04,996 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:04,996 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:04,996 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:04,996 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:04,996 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,010 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,010 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,010 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,010 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,010 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,026 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,026 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,026 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,026 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,026 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,043 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,043 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,043 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,043 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,043 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,060 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,060 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,060 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,060 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,060 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,075 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,075 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,075 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,076 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,076 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,092 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,092 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,092 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,092 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,092 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,109 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,109 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,109 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,109 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,109 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,125 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,125 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,125 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,125 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,126 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,143 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,143 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,143 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,143 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,143 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,159 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,159 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,159 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,160 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,160 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,175 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,176 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,176 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,176 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,176 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,193 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,193 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,193 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,193 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,193 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,309 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,309 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,309 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,309 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,309 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,392 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,392 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,392 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,393 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,393 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,427 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,428 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,428 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,428 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,428 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,444 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,444 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,444 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,444 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,444 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,459 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,459 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,459 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,459 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,459 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,476 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,476 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,476 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,476 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,476 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,493 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,493 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,493 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,493 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,493 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,509 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,509 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,509 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,509 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,509 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,526 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,526 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,526 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,526 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,526 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,542 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,542 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,542 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,543 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,543 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,559 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,559 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,559 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,559 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,559 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,575 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,575 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,575 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,575 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,575 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,592 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,592 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,592 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,592 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,592 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,609 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,610 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,610 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,610 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,610 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,626 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,626 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,626 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,626 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,626 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,643 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,643 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,643 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,643 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,643 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,659 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,659 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,659 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,659 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,659 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,675 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,675 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,675 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,675 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,675 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,692 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,692 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,692 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,692 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,692 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,709 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,709 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,709 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,709 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,709 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,726 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,726 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,726 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,726 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,726 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,808 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,808 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,808 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,808 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,809 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,842 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,842 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,842 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,842 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,842 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,875 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,875 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,875 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,875 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,875 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,892 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,893 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,893 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,893 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,893 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,909 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,909 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,909 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,909 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,909 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,925 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,925 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,925 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,926 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,926 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,942 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,942 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,942 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,942 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,942 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,958 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,959 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,959 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,959 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,959 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
+2023-12-28 13:12:05,976 - INFO - Magnitude/Phase mode selected
+2023-12-28 13:12:05,976 - INFO - Slider 1 value: 0, Manipulated image: 1, Component: Magnitude
+2023-12-28 13:12:05,976 - INFO - Slider 2 value: 0, Manipulated image: 2, Component: Magnitude
+2023-12-28 13:12:05,976 - INFO - Slider 3 value: 0, Manipulated image: 3, Component: Magnitude
+2023-12-28 13:12:05,976 - INFO - Slider 4 value: 0, Manipulated image: 4, Component: Magnitude
